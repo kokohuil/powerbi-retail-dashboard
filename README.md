@@ -1,7 +1,7 @@
 # 📊 Power BI Retail Dashboard
 
 Dashboard de pilotage commercial connecté à BigQuery via DirectQuery.
-Construit sur les marts dbt du repo [`dbt-retail-analytics-pipeline`](https://github.com/<votre-username>/dbt-retail-analytics-pipeline).
+Construit sur les marts dbt du repo [`dbt-retail-analytics-pipeline`](https://github.com/kokohuil/dbt-retail-analytics-pipeline).
 
 ---
 
