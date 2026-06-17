@@ -87,4 +87,4 @@ dbt run && dbt test
 ## 👤 Auteur
 
 **William KOUKOUI** — Data Analyst / Analytics Engineer
-[LinkedIn](https://linkedin.com/in/william-koukoui) · [Email](mailto:william.koukoui.ai@gmail.com)
+[LinkedIn](www.linkedin.com/in/wi-ko-data-analyst-cdi-paris) · [Email](mailto:william.koukoui.ai@gmail.com)
